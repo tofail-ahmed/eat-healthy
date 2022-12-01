@@ -1,0 +1,41 @@
+section{
+      display: flex;
+      margin-top: 50px;
+      margin-left: 35px;
+      padding-left: 20px;      
+}
+.width{
+      width: 50%;
+      padding-left: 30px;
+}
+.width img{
+      width: 80%;
+}
+.header-1{
+      font-size: 80px;
+}
+span{
+      color: rgb(236, 64, 33);
+}
+#header-4{
+      font-size: large;
+      padding-right: 50px;
+}
+.link-button{
+      text-decoration: none;
+      background-image: linear-gradient(orange, tomato);
+      font-size: large;
+      font-weight: 800;
+      color: white;
+      border-radius: 30px;
+      padding: 10px;
+}
+#paragraph{
+      font-size: large;
+      padding-right: 50px;  
+      font-weight: 700; 
+      
+}
+.banner{
+      background-image: url(Frame\ 59.jpg);
+}
