@@ -2,14 +2,15 @@ section{
       display: flex;
       margin-top: 50px;
       margin-left: 35px;
-      padding-left: 20px;      
+      padding-left: 20px; 
+      margin-bottom: 80px;     
 }
 .width{
       width: 50%;
       padding-left: 30px;
 }
 .width img{
-      width: 80%;
+      width: 80%
 }
 .header-1{
       font-size: 80px;
@@ -37,5 +38,30 @@ span{
       
 }
 .banner{
-      background-image: url(Frame\ 59.jpg);
+      background-image: url(7.png);
+      background-repeat: no-repeat;
+      
+
+}
+.image img{
+      width: 50%;
+}
+.recipes{
+      font-size: 50px;
+      color: tomato;
+      text-align: center;
+}
+.para-2{
+      margin-left: 30%;
+      margin-right: 30%;
+      font-size: 20px;
+      font-weight: 600;
+      color: rgb(236, 10, 10);
+      box-shadow: 10px 10px 30px red;
+      padding-left: 10px;
+      padding-right: 10px;
+      border-radius: 10px;
+      border-left: 10px solid pink;
+      border-top: 10px solid pink;
+
 }
